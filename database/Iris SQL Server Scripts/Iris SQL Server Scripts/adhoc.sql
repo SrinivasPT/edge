@@ -1,0 +1,1 @@
+SELECT REPLACE('SQL Tutorial,IsActive', 'IsActive', '1');

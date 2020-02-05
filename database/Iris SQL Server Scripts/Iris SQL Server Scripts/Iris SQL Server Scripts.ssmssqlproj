@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Iris SQL Server Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-LQ59A3V\SQLExpress:DESKTOP-LQ59A3V\srini">
+          <Created>2020-02-01T22:24:39.1222074+05:30</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-LQ59A3V\SQLExpress</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Iris</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="adhoc.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>adhoc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CodeGeneratorSource.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CodeGeneratorSource.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DataGenerator_ControlMaster.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DataGenerator_ControlMaster.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DataGenerator_Page.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DataGenerator_Page.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Facade_Page_Get.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Facade_Page_Get.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Facade_Page_Save.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Facade_Page_Save.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Facade_PageBuilder_Get.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Facade_PageBuilder_Get.sql</FullPath>
+        </FileNode>
+        <FileNode Name="fnGetCodeValForID.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>fnGetCodeValForID.sql</FullPath>
+        </FileNode>
+        <FileNode Name="fnGetTemplateOptionsForControl.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>fnGetTemplateOptionsForControl.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Generate_Entity_ProcAndFunctions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Generate_Entity_ProcAndFunctions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Generate_Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Generate_Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PageControlView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PageControlView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SchemaValidation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SchemaValidation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Test.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Test.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UnitTestScripts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UnitTestScripts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Utility.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Utility.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Utility_PascalCaseToWordsSeperatedByDelimiter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-LQ59A3V\SQLExpress:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-LQ59A3V\SQLExpress</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Utility_PascalCaseToWordsSeperatedByDelimiter.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
